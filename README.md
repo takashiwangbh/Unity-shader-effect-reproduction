@@ -25,3 +25,6 @@
 ![alt text](./readme%20image/image-5.png)
 ![alt text](./readme%20image/image-6.png)
 ![alt text](./readme%20image/image-7.png)
+
+### animation
+![animation](./readme%20image/animation.gif)
