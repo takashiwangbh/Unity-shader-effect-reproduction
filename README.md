@@ -27,4 +27,4 @@
 ![alt text](./readme%20image/image-7.png)
 
 ### animation
-![animation](./readme%20image/animation.gif)
+![animation](./readme%20image/anmation1.gif)
