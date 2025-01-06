@@ -7,7 +7,7 @@
 ## Display
 
 ###  VertexVisualizer
-![alt text](./readme%20image/image.png)
+![alt text](./readme%20image/image-0.png)
 
 ### Basic Lighting
 ![alt text](./readme%20image/image-1.png)
@@ -33,3 +33,8 @@
 ![animation](./readme%20image/animation4.gif)
 
 ### Image Processing
+![alt text](./readme%20image/image%20processing1.png)
+![alt text](./readme%20image/image%20processing2.png)
+![alt text](./readme%20image/image%20processing3.png)
+![alt text](./readme%20image/image%20processing4.png)
+![alt text](./readme%20image/image%20processing5.png)
