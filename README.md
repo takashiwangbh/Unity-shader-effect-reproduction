@@ -38,3 +38,16 @@
 ![alt text](./readme%20image/image%20processing3.png)
 ![alt text](./readme%20image/image%20processing4.png)
 ![alt text](./readme%20image/image%20processing5.png)
+
+### Depth and Normal Textures
+![animation](./readme%20image/Motion%20Blur.gif)
+![alt text](./readme%20image/fog.png)
+![alt text](./readme%20image/edge.png)
+
+### Non-photorealistic rendering
+![alt text](./readme%20image/style.png)
+
+### Noise
+![animation](./readme%20image/消融效果.gif)
+![animation](./readme%20image/水波效果.gif)
+![animation](./readme%20image/全局雾效.gif)
